@@ -1,0 +1,100 @@
+DOCTYPE: Tipo de archivo ej: 
+<!DOCTYPE html>
+
+
+
+html: estructura principal ej: 
+<html lang="es"> (abrir)  </html> (cerrar)
+
+
+
+head: configuración de la pagina ej: 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+
+
+meta: configuración de la pagina como codificación, estructura y demás ej:
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+
+title: es para poner el nombre de la pagina ej:
+<title>Document</title>
+
+
+
+body: sirve para ingresar cuerpo de la pagina ej:
+<body>
+    
+</body>
+
+
+
+header: es un contenedor para el titulo/nombre/presentación ej:
+<header>
+
+</header>
+
+
+
+nav: barra de navegación ej:
+<nav>
+
+</nav>
+
+
+
+main: donde se pone la principal información ej:
+<main>
+        <section>
+
+            <article>
+
+                
+            </article>
+
+        </section>
+</main>
+
+
+
+section: sección de la pagina ej:
+<section>
+
+            <article>
+
+                
+            </article>
+
+</section>
+
+
+
+article: la parte escrita dentro del section ej:
+<article>
+
+                
+</article>
+
+
+
+footer: créditos y enlaces ej:
+<footer>
+        
+</footer>
+
+
+
+h1, h2, h3, h4, h5, h6: Textos por orden de importancia ej:
+<h1>
+	hola
+</h1>
+
+
+
+img src: agrega imagen al articulo ej:
