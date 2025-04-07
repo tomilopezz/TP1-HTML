@@ -1,1 +1,41 @@
-body{background-color: #ffffff;}
+body{
+    display: block;
+    text-align: center;
+    background-color: #ffffff;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+main{
+    display: flex;
+}
+
+.cont_A{
+    display: block;
+    width: 50%;
+    text-align: justify;
+}
+
+.cont_B{
+    display: block;
+    width: 50%;
+    text-align: justify;
+}
+
+.section1{
+    background-color: gray;
+    margin: 5%;
+    padding: 5%;
+}
+
+.section2{
+    background-color: gray;
+    margin: 5%;
+    padding: 5%;
+}
+
+.foto_1{
+    border-radius: 100%;
+    border: 3px solid white;
+}
+
